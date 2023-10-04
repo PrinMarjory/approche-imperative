@@ -4,7 +4,7 @@ public class ExerciceTableauChaines {
 
 	public static void main(String[] args) {
 		
-		String[] nomVilles = new String[] {"Nantes", "Rennes", "Vannes", "Brest", "Lorient"};
+		String[] nomVilles = {"Nantes", "Rennes", "Vannes", "Brest", "Lorient"};
 		
 		System.out.println(nomVilles[0]);
 		System.out.println(nomVilles[1]);

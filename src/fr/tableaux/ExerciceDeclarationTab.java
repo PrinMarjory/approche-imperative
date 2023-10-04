@@ -4,7 +4,7 @@ public class ExerciceDeclarationTab {
 
 	public static void main(String[] args) {
 		
-		int[] tableauEntier = new int [] {8, -7, 12, 1, -2, 14, 17, 9};
+		int[] tableauEntier = {8, -7, 12, 1, -2, 14, 17, 9};
 		
 		System.out.println(tableauEntier[0]);
 		
