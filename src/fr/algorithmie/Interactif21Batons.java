@@ -77,7 +77,7 @@ public class Interactif21Batons {
 		}
 		
 		//Message en cas de victoire
-		System.out.println("\nBravo, vous avez gagné!");
+		System.out.println("Bravo, vous avez gagné!");
 		
 	}
 }
